@@ -7,3 +7,5 @@ const findMultiples = (integer, limit) => {
     }
    return arr
   }
+
+  // Link => https://www.codewars.com/kata/58ca658cc0d6401f2700045f/javascript
