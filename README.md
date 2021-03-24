@@ -4,7 +4,6 @@
 - Add all katas from codewars(stopped at "number with 3 roots.")
 
 ## Ranks
---- | ---
 User Rank | Required Score
 --- | ---
 8 kyu | 0
@@ -20,7 +19,6 @@ User Rank | Required Score
 
 ## Points
 Kata Rank |  Score Awarded
---- | ---
 Complete an 8 kyu kata | 2
 Complete a 7 kyu kata | 3
 Complete a 6 kyu kata | 8
